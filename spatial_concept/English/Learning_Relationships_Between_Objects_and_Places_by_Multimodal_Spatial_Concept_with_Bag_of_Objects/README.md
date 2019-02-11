@@ -1,5 +1,5 @@
-![論文](https://github.com/soraKING44/survey_paper/blob/images/spatial_concept/English/Hierarchical%20Spatial%20Concept%20Formation%20Based%20on%20Multimodal%20Information%20for%20Human%20Support%20Robots.png)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/spatial_concept/English/Learning%20Relationships%20Between%20Objects%20and%20Places%20by%20Multimodal%20Spatial%20Concept%20with%20Bag%20of%20Objects.png)
 
-場所概念獲得を階層型に拡張したモデル
+画像特徴量としてYOLOのBoWを用いた研究
 
-https://www.frontiersin.org/articles/10.3389/fnbot.2018.00011/full
+https://link.springer.com/chapter/10.1007/978-3-319-70022-9_12
