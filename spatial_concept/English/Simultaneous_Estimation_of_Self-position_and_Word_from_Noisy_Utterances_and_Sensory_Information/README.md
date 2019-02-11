@@ -1,5 +1,5 @@
-![論文](https://github.com/soraKING44/survey_paper/blob/images/spatial_concept/English/Hierarchical%20Spatial%20Concept%20Formation%20Based%20on%20Multimodal%20Information%20for%20Human%20Support%20Robots.png)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/spatial_concept/English/Simultaneous%20Estimation%20of%20Self-position%20and%20Word%20from%20Noisy%20Utterances%20and%20Sensory%20Information.png)
 
-場所概念獲得を階層型に拡張したモデル
+曖昧な音声認識とロボットの自己位置推定の結果を用いて場所概念獲得を行った研究．
 
-https://www.frontiersin.org/articles/10.3389/fnbot.2018.00011/full
+https://www.sciencedirect.com/science/article/pii/S2405896316321188
