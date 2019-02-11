@@ -1,5 +1,5 @@
-![論文](https://github.com/soraKING44/survey_paper/blob/images/spatial_concept/English/Hierarchical%20Spatial%20Concept%20Formation%20Based%20on%20Multimodal%20Information%20for%20Human%20Support%20Robots.png)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/spatial_concept/English/Spatial%20Concept%20Acquisition%20for%20a%20Mobile%20Robot%20That%20Integrates%20Self-Localization%20and%20Unsupervised%20Word%20Discovery%20From%20Spoken%20Sentences.png)
 
-場所概念獲得を階層型に拡張したモデル
+SpCoA
 
-https://www.frontiersin.org/articles/10.3389/fnbot.2018.00011/full
+https://ieeexplore.ieee.org/document/7467531
