@@ -1,1 +1,1 @@
-# survey_paper
+# semantic mappingに関する論文のまとめ
