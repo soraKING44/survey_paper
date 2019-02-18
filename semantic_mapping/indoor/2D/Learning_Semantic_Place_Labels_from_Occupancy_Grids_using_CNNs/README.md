@@ -2,4 +2,6 @@
 
 CNNにレーザセンサの情報を入れてplace labelを獲得する．
 
+Robert Goeddel, Edwin Olson
+
 https://ieeexplore.ieee.org/document/7759589
