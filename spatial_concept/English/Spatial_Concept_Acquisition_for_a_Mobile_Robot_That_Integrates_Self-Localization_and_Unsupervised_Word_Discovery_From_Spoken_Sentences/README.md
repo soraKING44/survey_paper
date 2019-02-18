@@ -2,4 +2,6 @@
 
 SpCoA
 
+Akira Taniguchi, Tadahiro Taniguchi, Tetsunari Inamura
+
 https://ieeexplore.ieee.org/document/7467531
