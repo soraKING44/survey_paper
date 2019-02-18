@@ -2,4 +2,6 @@
 
 水中のsemantic mapping（ポスター発表）
 
+Kevin Doherty, Yogesh Girdhar
+
 http://web.mit.edu/kdoherty/www/docs/kdoherty_iros2017.pdf
