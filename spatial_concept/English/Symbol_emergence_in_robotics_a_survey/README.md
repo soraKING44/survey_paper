@@ -2,4 +2,6 @@
 
 記号創発ロボティクスのsurvey
 
+Tadahiro Taniguchi, Takayuki Nagai, Tomoaki Nakamura, Naoto Iwahashi, Tetsuya Ogata, Hideki Asoh
+
 https://www.tandfonline.com/doi/abs/10.1080/01691864.2016.1164622
