@@ -2,4 +2,6 @@
 
 曖昧な音声認識とロボットの自己位置推定の結果を用いて場所概念獲得を行った研究．
 
+Akira Taniguchi, Tadahiro Taniguchi, Tetsunari Inamura
+
 https://www.sciencedirect.com/science/article/pii/S2405896316321188
