@@ -2,4 +2,6 @@
 
 semantic mappingのsurvey論文
 
+Ioannis Kostavelis, Antonios Gasteratos
+
 https://www.sciencedirect.com/science/article/pii/S0921889014003030
