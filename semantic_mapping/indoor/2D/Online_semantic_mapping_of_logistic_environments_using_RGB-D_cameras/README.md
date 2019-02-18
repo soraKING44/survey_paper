@@ -2,4 +2,6 @@
 
 画像から物体認識結果と深度情報を読み取り，SLAMとsemantic map形成を同時に行う．
 
+Marian Himstedt, Erik Maehle
+
 https://journals.sagepub.com/doi/abs/10.1177/1729881417720781
