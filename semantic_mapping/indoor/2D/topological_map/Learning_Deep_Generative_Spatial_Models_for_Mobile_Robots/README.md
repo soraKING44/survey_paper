@@ -1,6 +1,6 @@
 ![論文](https://github.com/soraKING44/survey_paper/blob/images/semantic_mapping/indoor/2D/topological_map/Learning%20Deep%20Generative%20Spatial%20Models%20for%20Mobile%20Robots.png)
 
-論文の説明
+depth情報のみ
 
 Andrzej Pronobis, Rajesh P. N. Rao
 
