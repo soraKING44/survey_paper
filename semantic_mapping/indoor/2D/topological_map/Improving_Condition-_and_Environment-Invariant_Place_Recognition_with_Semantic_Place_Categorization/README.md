@@ -1,7 +1,7 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/semantic_mapping/indoor/2D/topological_map/Improving%20Condition-%20and%20Environment-Invariant%20Place%20Recognition%20with%20Semantic%20Place%20Categorization.png)
 
-論文の説明
+Place categotizationを行い，semantic mappingに適応する．
 
-著者
+Sourav Garg, Adam Jacobson, Swagat Kumar, Michael Milford
 
-論文のURL
+https://ieeexplore.ieee.org/document/8206608
