@@ -2,4 +2,6 @@
 
 SpCoSLAM
 
+Akira Taniguchi, Yoshinobu Hagiwara, Tadahiro Taniguchi, Tetsunari Inamura
+
 https://ieeexplore.ieee.org/document/8202243
