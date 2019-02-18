@@ -1,7 +1,8 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/semantic_mapping/indoor/2D/topological_map/Place%20Classification%20With%20a%20Graph%20Regularized%20Deep%20Neural%20Network.png)
 
-論文の説明
+環境にある物体から場所のラベルを推定する．
+Automated Place Classification using Object Detectionが先行研究
 
-著者
+Yiyi Liao, Sarath Kodagoda, Yue Wang, Lei Shi, Yong Liu
 
-論文のURL
+https://ieeexplore.ieee.org/document/7501830
