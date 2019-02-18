@@ -2,4 +2,6 @@
 
 SpCoA++
 
+Akira Taniguchi, Tadahiro Taniguchi, Tetsunari Inamura
+
 https://www.sciencedirect.com/science/article/pii/S0921889017302178
