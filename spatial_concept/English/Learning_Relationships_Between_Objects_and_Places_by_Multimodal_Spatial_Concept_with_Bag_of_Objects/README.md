@@ -2,4 +2,6 @@
 
 画像特徴量としてYOLOのBoWを用いた研究
 
+Shota Isobe, Akira Taniguchi, Yoshinobu Hagiwara, Tadahiro Taniguchi
+
 https://link.springer.com/chapter/10.1007/978-3-319-70022-9_12
