@@ -2,4 +2,6 @@
 
 部屋ごとに画像から場所のラベルを獲得し，semantic mapを形成する．
 
+Manuel Brucker, Maximilian Durner, Rareş Ambruş, Zoltán Csaba Márton, Axel Wendt, Patric Jensfelt, Kai O. Arras, Rudolph Triebel
+
 https://ieeexplore.ieee.org/document/8462922
