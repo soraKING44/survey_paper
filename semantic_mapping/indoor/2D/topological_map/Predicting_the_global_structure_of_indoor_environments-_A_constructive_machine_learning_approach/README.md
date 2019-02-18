@@ -1,7 +1,5 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/semantic_mapping/indoor/2D/topological_map/Predicting%20the%20global%20structure%20of%20indoor%20environments-%20A%20constructive%20machine%20learning%20approach.png)
 
-論文の説明
+Matteo　Luperto, Francesco Amigoni
 
-著者
-
-論文のURL
+https://link.springer.com/article/10.1007/s10514-018-9732-7
