@@ -2,4 +2,6 @@
 
 全方位カメラでSLAMと場所のラベルを獲得してsemantic map形成を行う．
 
+Luis Felipe Posada, Alejandro Velasquez-Lopez, Frank Hoffmann, Torsten Bertram
+
 https://ieeexplore.ieee.org/document/8461165
