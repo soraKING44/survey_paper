@@ -2,4 +2,6 @@
 
 場所概念獲得を階層型に拡張したモデル
 
+Hagiwara Yoshinobu, Inoue Masakazu, Kobayashi Hiroyoshi, Taniguchi Tadahiro
+
 https://www.frontiersin.org/articles/10.3389/fnbot.2018.00011/full
