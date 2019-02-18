@@ -2,4 +2,6 @@
 
 画像から語彙のアノテーション情報を獲得し，semantic map形成を行う．
 
+Jose Carlos Rangel, Miguel Cazorla, Ismael Garcia-Varea, Cristina Romero-Gonzalez, Jesus Martinez-Gomez
+
 https://link.springer.com/article/10.1007/s10514-018-9723-8
