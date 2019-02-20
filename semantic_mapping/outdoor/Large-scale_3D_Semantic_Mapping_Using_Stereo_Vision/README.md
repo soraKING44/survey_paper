@@ -1,7 +1,7 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/semantic_mapping/outdoor/Large-scale%203D%20Semantic%20Mapping%20Using%20Stereo%20Vision.png)
 
-論文の説明
+カメラ画像から深層学習を用いたSemantic Mapping
 
-著者
+Yi Yang, Fan Qiu,Hao Li, Lu Zhang, Mei-Ling Wang, Meng-Yin Fu
 
-論文のURL
+https://link.springer.com/article/10.1007/s11633-018-1118-y
