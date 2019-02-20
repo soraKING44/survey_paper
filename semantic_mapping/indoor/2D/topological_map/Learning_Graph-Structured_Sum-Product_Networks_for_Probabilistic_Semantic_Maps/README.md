@@ -1,7 +1,7 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/semantic_mapping/indoor/2D/topological_map/Learning%20Graph-Structured%20Sum-Product%20Networks%20for%20Probabilistic%20Semantic%20Maps.png)
 
-論文の説明
+間違いを含むSemantic Mapを修正する手法
 
-著者
+Kaiyu Zheng, Andrzej Pronobis, Rajesh P. N. Rao
 
-論文のURL
+https://www.pronobis.pro/publications/zheng2018aaai.pdf
