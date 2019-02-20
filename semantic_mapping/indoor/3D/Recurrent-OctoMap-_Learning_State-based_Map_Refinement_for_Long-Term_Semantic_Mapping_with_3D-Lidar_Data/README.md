@@ -1,7 +1,7 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/semantic_mapping/indoor/3D/Recurrent-OctoMap-%20Learning%20State-based%20Map%20Refinement%20for%20Long-Term%20Semantic%20Mapping%20with%203D-Lidar%20Data.png)
 
-論文の説明
+Liderで取ったdepth情報をRNNに入れる
 
-著者
+Li Sun, Zhi Yan, Anestis Zaganidis, Cheng Zhao, Tom Duckett
 
-論文のURL
+https://ieeexplore.ieee.org/document/8411109
