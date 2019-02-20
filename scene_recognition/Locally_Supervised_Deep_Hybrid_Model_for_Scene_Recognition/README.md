@@ -1,7 +1,7 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/scene_recognition/Locally%20Supervised%20Deep%20Hybrid%20Model%20for%20Scene%20Recognition.png)
 
-論文の説明
+CNN
 
-著者
+Sheng Guo, Weilin Huang, Limin Wang, Yu Qiao
 
-論文のURL
+https://ieeexplore.ieee.org/document/7745887
