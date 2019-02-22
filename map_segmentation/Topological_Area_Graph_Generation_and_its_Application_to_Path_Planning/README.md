@@ -1,7 +1,7 @@
-![論文](図のURL)
+<!-- ![論文](図のURL) -->
 
 論文の説明
 
-著者
+Jiawei Hou, Yijun Yuan, Sören Schwertfeger
 
-論文のURL
+https://arxiv.org/abs/1811.05113
