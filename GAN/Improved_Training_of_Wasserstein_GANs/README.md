@@ -1,7 +1,7 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/GAN/Improved%20Training%20of%20Wasserstein%20GANs.png)
 
-論文の説明
+WGAN-GP．gradient penalty項を用いてWGANをより収束しやすくした．
 
 著者
 
-論文のURL
+https://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans
