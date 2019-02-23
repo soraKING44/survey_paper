@@ -1,7 +1,7 @@
 ![論文](図のURL)
 
-論文の説明
+Condition情報を使ったGAN
 
-著者
+Mehdi Mirza, Simon Osindero
 
-論文のURL
+https://arxiv.org/abs/1411.1784
