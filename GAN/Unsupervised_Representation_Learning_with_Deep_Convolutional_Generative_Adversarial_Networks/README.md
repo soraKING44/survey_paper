@@ -1,7 +1,7 @@
-![論文](図のURL)
+<!-- ![論文](図のURL) -->
 
-論文の説明
+GANにCNNを使うと収束するのが難しくなるので，どういうテクニックを使って収束するようにするかという論文．DCGAN
 
-著者
+Alec Radford, Luke Metz, Soumith Chintala
 
-論文のURL
+https://arxiv.org/abs/1511.06434
