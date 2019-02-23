@@ -1,7 +1,7 @@
-![論文](図のURL)
+<!-- ![論文](図のURL) -->
 
-論文の説明
+Jenson-Shannon divergence (JSD)で求めていたdataの分布とgeneratorの分布の距離を，Wesserstein distance (WD)で求めるように変更すると，勾配が消失しなくなって学習が上手くいく．
 
-著者
+Martin Arjovsky, Soumith Chintala, Leon Bottou
 
-論文のURL
+https://arxiv.org/abs/1701.07875
