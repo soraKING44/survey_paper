@@ -1,7 +1,7 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/GAN/Statistical%20Parametric%20Speech%20Synthesis%20Incorporating%20Generative%20Adversarial%20Networks.png)
 
-論文の説明
+音声合成にGANを用いた研究．
 
-著者
+Yuki Saito, Shinnosuke Takamichi, Hurishi Saruwatari
 
-論文のURL
+https://ieeexplore.ieee.org/document/8063435
