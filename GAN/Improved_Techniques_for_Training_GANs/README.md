@@ -1,7 +1,9 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/GAN/Improved%20Techniques%20for%20Training%20GANs.png)
 
-論文の説明
+GANを収束させるためのテクニック．
 
-著者
+参考にしたページ（https://qiita.com/underfitting/items/a0cbb035568dea33b2d7）
 
-論文のURL
+Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen, Xi Chen
+
+https://papers.nips.cc/paper/6125-improved-techniques-for-training-gans
