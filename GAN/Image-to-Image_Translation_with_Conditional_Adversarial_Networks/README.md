@@ -1,7 +1,7 @@
-![論文](図のURL)
+![論文](https://github.com/soraKING44/survey_paper/blob/images/GAN/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks.png)
 
-論文の説明
+pix2pix．GeneratorにU-net，DiscriminatorにpatchGANを用いた手法．
 
-著者
+Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 
-論文のURL
+https://ieeexplore.ieee.org/abstract/document/8100115
