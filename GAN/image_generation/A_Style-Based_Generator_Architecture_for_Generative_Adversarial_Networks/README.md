@@ -1,5 +1,5 @@
 A Style-Based Generator Architecture for Generative Adversarial Networks
-ノイズをmapping networkに通してから畳み込み層の間に足す．styleGAN
+GANsは潜在空間がよくわからない感じになるが，ノイズをmapping networkに通してから畳み込み層の間に足す，直接スタイルを突っ込むような機構を作って欲しいデータを生成するようにした手法．styleGAN
 
 Tero Karras, Samuli Laine, Timo Aila (NVIDIA)
 
